@@ -1,2 +1,2 @@
-# Meu Projeto, site de turismo
+# Meu Projeto, site de ferias e turismo
  site de férias e turismo
